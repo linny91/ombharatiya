@@ -32,18 +32,18 @@
 # ❤ to Build - Software Engineer & Enthusiast!
 
 
-Hi, I'm Om — a **software engineer** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+Hi, I'm Linny — a **software engineer** building some real stuff through code. My working principle is learning by doing✌💖.
 
 <!-- section - intro -->
 
 <!-- section - social media icons -->
 
-[![linkedin ombharatiya][1.1]][1]
+<!--[![linkedin ombharatiya][1.1]][1]
 [![github ombharatiya][2.1]][2]
 [![twitter ombharatiya][3.1]][3]
 [![medium ombharatiya][4.1]][4]
 [![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6]
+[![dev to ombharatiya][6.1]][6]-->
 
 <!-- section - social media icons -->
 
@@ -53,11 +53,11 @@ Hi, I'm Om — a **software engineer** building some real stuff through code & b
 
 ## I work on .. 💻
 
-Java Spring Boot . Django . React.js . Microservices . Docker . AWS Services
+Java Spring Boot .React.js . Microservices . Docker . AWS Services
 
-DynamoDB . Postgresql . MongoDB . Redis . Prometheus
+DynamoDB .  MongoDB . Redis . Prometheus
 
-Java . Python . GoLang . JavaScript . C++
+Java . Python .  JavaScript 
 
 <!-- section - skills -->
 
@@ -65,9 +65,9 @@ Java . Python . GoLang . JavaScript . C++
 
 ## On the job .. 💯
 
-> Software Engineering - [**Mensa Brands**](https://mensabrands.com)  ⭐
+> Software Engineering - [**IBM**](https://www.ibm.com/in-en)  ⭐
 
-#### Previously .. 💯
+<!--#### Previously .. 💯
 
 > Software Development Engineer - [**Swiggy**](https://bytes.swiggy.com/)  ⭐
 
@@ -75,7 +75,7 @@ Java . Python . GoLang . JavaScript . C++
 
 > Microsoft Student Partner & AI Rockstar - [**Microsoft**](https://studentambassadors.microsoft.com/en-us)
 
-> Software Development & Research Engineer Intern - [**ISRO**](https://www.isro.gov.in)
+> Software Development & Research Engineer Intern - [**ISRO**](https://www.isro.gov.in)-->
 
 
 <!-- section - job details -->
